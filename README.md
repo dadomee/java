@@ -1,4 +1,1 @@
-# test
-git test repository
-## git test
-이것은 git test!
+# 이것이 자바다 예제 레퍼지토리
